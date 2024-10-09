@@ -117,7 +117,5 @@ face-recognition-and-attendance-system/
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.  
 
- # 
-*Feel free to adjust the sections as necessary. If you have any additional details or modifications, let me know!* 😃😃
 
 
